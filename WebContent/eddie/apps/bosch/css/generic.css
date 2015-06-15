@@ -1,0 +1,28 @@
+html {margin:0; padding:0; height: 100%;}
+body {
+	margin:0;
+	height: 100%;
+	background-color:#000;
+}
+
+#wrap {
+	background: url(/eddie/apps/bosch/img/baccus.jpg) no-repeat center center;
+	margin: 0 auto;
+	width: 1139px;
+	height: 897px;
+	position: relative;
+}
+#opacity {
+	width: 1139px;
+	height: 897px;
+	background: #000;
+}
+#titlebar {
+	position: absolute;
+	top: 0px;
+	left: 50%;
+	right: 50%;
+	width: 80%;
+	color: #fff;
+	font-size: 16px;
+}
